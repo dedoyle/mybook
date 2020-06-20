@@ -4,5 +4,11 @@
   "main": "index.js",
   "repository": "git@github.com:dedoyle/mybook.git",
   "author": "dedoyle <dedoyle@163.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
 }
